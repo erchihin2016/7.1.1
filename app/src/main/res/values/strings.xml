@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">7.1.1</string>
+    <string name="hint_afternoon_main">afternoon</string>
+    <string name="hint_evening_main">evening</string>
+    <string name="hint_morning_main">morning</string>
+    <string name="hint_current_time">time</string>
+    <string name="synchronize">sync</string>
+</resources>
